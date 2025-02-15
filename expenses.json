@@ -1,0 +1,12 @@
+[
+    {
+        "category": "home",
+        "amount": 2000.0,
+        "description": "january month expenses"
+    },
+    {
+        "category": "study",
+        "amount": 1200000.0,
+        "description": "MCA Fees"
+    }
+]
